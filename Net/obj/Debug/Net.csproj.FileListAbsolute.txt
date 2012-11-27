@@ -1,0 +1,12 @@
+D:\projectC#\Net\Net\obj\Debug\ResolveAssemblyReference.cache
+D:\projectC#\Net\Net\obj\Debug\Net.Form1.resources
+D:\projectC#\Net\Net\obj\Debug\Net.Properties.Resources.resources
+D:\projectC#\Net\Net\obj\Debug\Net.csproj.GenerateResource.Cache
+D:\projectC#\Net\Net\bin\Debug\Net.exe
+D:\projectC#\Net\Net\bin\Debug\Net.pdb
+D:\projectC#\Net\Net\obj\Debug\Net.exe
+D:\projectC#\Net\Net\obj\Debug\Net.pdb
+D:\projectC#\Net\Net\bin\Debug\Mouse.dll
+D:\projectC#\Net\Net\bin\Debug\Mouse.pdb
+D:\projectC#\Net\Net\bin\Debug\Utils.dll
+D:\projectC#\Net\Net\bin\Debug\Utils.pdb

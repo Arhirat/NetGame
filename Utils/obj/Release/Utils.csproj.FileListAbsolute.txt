@@ -1,0 +1,5 @@
+D:\projectC#\Net\Utils\bin\Release\Utils.dll
+D:\projectC#\Net\Utils\bin\Release\Utils.pdb
+D:\projectC#\Net\Utils\obj\Release\ResolveAssemblyReference.cache
+D:\projectC#\Net\Utils\obj\Release\Utils.dll
+D:\projectC#\Net\Utils\obj\Release\Utils.pdb

@@ -1,0 +1,7 @@
+D:\projectC#\Net\Mouse\bin\Release\Mouse.dll
+D:\projectC#\Net\Mouse\bin\Release\Mouse.pdb
+D:\projectC#\Net\Mouse\bin\Release\Utils.dll
+D:\projectC#\Net\Mouse\bin\Release\Utils.pdb
+D:\projectC#\Net\Mouse\obj\Release\ResolveAssemblyReference.cache
+D:\projectC#\Net\Mouse\obj\Release\Mouse.dll
+D:\projectC#\Net\Mouse\obj\Release\Mouse.pdb
