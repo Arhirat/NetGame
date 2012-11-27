@@ -1,7 +1,0 @@
-D:\projectC#\Net\Mouse\obj\Debug\ResolveAssemblyReference.cache
-D:\projectC#\Net\Mouse\bin\Debug\Mouse.dll
-D:\projectC#\Net\Mouse\bin\Debug\Mouse.pdb
-D:\projectC#\Net\Mouse\obj\Debug\Mouse.dll
-D:\projectC#\Net\Mouse\obj\Debug\Mouse.pdb
-D:\projectC#\Net\Mouse\bin\Debug\Utils.dll
-D:\projectC#\Net\Mouse\bin\Debug\Utils.pdb

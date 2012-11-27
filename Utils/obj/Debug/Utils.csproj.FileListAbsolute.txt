@@ -1,5 +1,0 @@
-D:\projectC#\Net\Utils\obj\Debug\ResolveAssemblyReference.cache
-D:\projectC#\Net\Utils\bin\Debug\Utils.dll
-D:\projectC#\Net\Utils\bin\Debug\Utils.pdb
-D:\projectC#\Net\Utils\obj\Debug\Utils.dll
-D:\projectC#\Net\Utils\obj\Debug\Utils.pdb
